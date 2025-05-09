@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://subda787toto4d.com//mobile/login/$1"
+      "dest": "http://subda787toto4d.com/mobile/login/$1"
     }
   ]
 }
